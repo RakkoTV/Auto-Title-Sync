@@ -109,9 +109,9 @@ Example: `Playing {game} | {viewers} viewers`
 
 If you find this project useful, please consider supporting the development:
 
-[![Donate](https://img.shields.io/badge/PayPal-Donate-blue)](https://www.paypal.com/cgi-bin/webscr?cmd=_donations&business=ramiro.silva.1993@gmail.com&currency_code=USD)
+[![Donate](https://img.shields.io/badge/PayPal-Donate-blue)](https://www.paypal.com/cgi-bin/webscr?cmd=_donations&business=ramiro.silva.1993%40gmail%2ecom&lc=US&item_name=Support+Open+Source+Development&currency_code=USD)
 
-**[Donate via PayPal](https://www.paypal.com/cgi-bin/webscr?cmd=_donations&business=ramiro.silva.1993@gmail.com&currency_code=USD)**
+**[Donate via PayPal](https://www.paypal.com/cgi-bin/webscr?cmd=_donations&business=ramiro.silva.1993%40gmail%2ecom&lc=US&item_name=Support+Open+Source+Development&currency_code=USD)**
 
 ## Connect With Me
 

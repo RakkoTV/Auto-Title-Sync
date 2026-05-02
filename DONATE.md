@@ -52,10 +52,9 @@ Special thanks to:
 
 ## 📧 Contact
 
-For business inquiries, feature requests, or just to say hi:
-
-- **Email**: ramiro.silva.1993@gmail.com
-- **GitHub Issues**: For bug reports and feature requests
+For bug reports, feature requests, and discussions:
+- **GitHub Issues**: [Report issues here](../../issues)
+- **GitHub Discussions**: [Join discussions here](../../discussions)
 - **Discord**: [Join my community](https://discord.gg/rakkotech)
 
 ---
