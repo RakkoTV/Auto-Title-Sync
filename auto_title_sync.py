@@ -418,9 +418,9 @@ def update_stream_title():
 # TIMER CALLBACK
 # =============================================================================
 
-def timer_callback UNUSED:
+def timer_callback(unused):
     """Timer callback for periodic updates"""
-    UNUSED = None
+    unused = None
     update_stream_title()
 
 
@@ -444,9 +444,9 @@ def stop_timer():
 # HOTKEY CALLBACK
 # =============================================================================
 
-def hotkey_update_callback UNUSED:
+def hotkey_update_callback(unused):
     """Hotkey callback to update title immediately"""
-    UNUSED = None
+    unused = None
     update_stream_title()
 
 
@@ -454,17 +454,17 @@ def hotkey_update_callback UNUSED:
 # UI CALLBACKS
 # =============================================================================
 
-def on_update_clicked(props, prop UNUSED, UNUSED2):
+def on_update_clicked(props, prop, unused2):
     """Update now button clicked"""
-    UNUSED = None
-    UNUSED2 = None
+    unused = None
+    unused2 = None
     update_stream_title()
 
 
-def on_test_clicked(props, prop UNUSED, UNUSED2):
+def on_test_clicked(props, prop, unused2):
     """Test connection button clicked"""
-    UNUSED = None
-    UNUSED2 = None
+    unused = None
+    unused2 = None
 
     # Test Twitch connection
     if state.twitch_enabled and state.twitch_token:
