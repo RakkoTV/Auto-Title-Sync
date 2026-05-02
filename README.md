@@ -80,6 +80,19 @@ Example: `Playing {game} | {viewers} viewers`
 - **Python**: 3.8 or higher (included with OBS)
 - **Operating System**: Windows 10+, macOS 12+, Linux
 
+## Documentation
+
+- [Installation Guide](docs/INSTALLATION.md)
+- [Usage Guide](docs/USAGE.md)
+- [Troubleshooting](docs/TROUBLESHOOTING.md)
+
+## Quick Start
+
+1. Download the script from [Releases](../../releases)
+2. Add to OBS: **Tools → Scripts → +**
+3. Get credentials from [Twitch Dev Console](https://dev.twitch.tv/console)
+4. Configure and start streaming!
+
 ## Troubleshooting
 
 **Problem**: Script not appearing in OBS
